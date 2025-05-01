@@ -5,12 +5,12 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 
 ## Papers
 ### 2025
-- TesserAct: Learning 4D Embodied World Models <br>
-**`arxiv25.04`** [[Paper]](https://arxiv.org/pdf/2504.20995v1.pdf) [[Code]](https://github.com/UMass-Embodied-AGI/TesserAct) <br>
+- **<a href="https://arxiv.org/pdf/2504.20995v1.pdf" style="text-decoration: none;">TesserAct: Learning 4D Embodied World Models</a>** <br>
+**`arxiv25.04`** [[Code]](https://github.com/UMass-Embodied-AGI/TesserAct) <br>
 
 - EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation <br>
 **`arxiv25.02`** [[Paper]](https://arxiv.org/pdf/2501.01895.pdf) <br>
 
 ### 2024
-- WHALE: TOWARDS GENERALIZABLE AND SCALABLE WORLD MODELS FOR EMBODIED DECISION-MAKING <br>
+- WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making <br>
 **`arxiv24.11`** [[Paper]](https://arxiv.org/pdf/2411.05619.pdf) <br>
