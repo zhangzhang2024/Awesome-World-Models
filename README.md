@@ -5,6 +5,12 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 
 ## Papers
 ### 2025
+- _**Occupancy World Model for Robots**_ <br>
+**`arxiv25.05`** [[Paper]](https://arxiv.org/pdf/2505.05512v1.pdf) <br>
+
+- _**Learning 3D Persistent Embodied World Models**_ <br>
+**`arxiv25.05`** [[Paper]](https://arxiv.org/pdf/2505.05495.pdf) <br>
+
 - _**TesserAct: Learning 4D Embodied World Models**_ <br>
 **`arxiv25.04`** [[Paper]](https://arxiv.org/pdf/2504.20995v1.pdf) [[Code]](https://github.com/UMass-Embodied-AGI/TesserAct) <br>
 
