@@ -14,9 +14,16 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 - _**TesserAct: Learning 4D Embodied World Models**_ <br>
 **`arxiv25.04`** [[Paper]](https://arxiv.org/pdf/2504.20995v1.pdf) [[Code]](https://github.com/UMass-Embodied-AGI/TesserAct) <br>
 
+- _**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**_ <br>
+**`ICLR2025`** [[Paper]](https://arxiv.org/pdf/2404.10775.pdf) [[Code]](https://github.com/UMass-Embodied-AGI/COMBO) <br>
+
 - _**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**_ <br>
 **`arxiv25.02`** [[Paper]](https://arxiv.org/pdf/2501.01895.pdf) <br>
 
 ### 2024
 - _**WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making**_ <br>
 **`arxiv24.11`** [[Paper]](https://arxiv.org/pdf/2411.05619.pdf) <br>
+
+### 2023
+- _**Video Language Planning**_ <br>
+**`arxiv23.10`** [[Paper]](https://arxiv.org/pdf/2310.10625.pdf) [[Code]](https://github.com/video-language-planning/vlp_code) <br>
