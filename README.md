@@ -26,12 +26,18 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 - _**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**_ <br>
 **`arXiv25.02`** [[Paper]](https://arxiv.org/pdf/2501.01895.pdf) <br>
 
+- _**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**_ <br>
+**`arXiv25.02`** [[Paper]](https://arxiv.org/pdf/2502.13894.pdf) <br>
+
 - _**GenEx: Generating an Explorable World**_ <br>
 **`arXiv25.01`** [[Paper]](https://arxiv.org/pdf/2412.09624.pdf) <br>
 
 ### 2024
 - _**WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making**_ <br>
 **`arXiv24.11`** [[Paper]](https://arxiv.org/pdf/2411.05619.pdf) <br>
+
+- _**MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control**_ <br>
+**`NIPS 2024 @ OWA`** [[Paper]](https://arxiv.org/pdf/2403.12037.pdf) [[Code]](https://github.com/Zhoues/MineDreamer) <br>
 
 - _**UniSim: Learning Interactive Real-World Simulators**_ <br>
 **`ICLR 2024`** [[Paper]](https://arxiv.org/pdf/2310.06114.pdf) <br>
@@ -42,7 +48,12 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 - _**IRASim: Learning Interactive Real-Robot Action Simulators**_ <br>
 **`arXiv24.06`** [[Paper]](https://arxiv.org/pdf/2406.14540.pdf) [[Code]](https://github.com/bytedance/IRASim) <br>
 
+- _**RoboDreamer: Learning Compositional World Models for Robot Imagination**_ <br>
+**`arXiv24.04`** [[Paper]](https://arxiv.org/pdf/2404.12377.pdf) <br>
+
 ### 2023
 - _**Learning Universal Policies via Text-Guided Video Generation**_ <br>
 **`NIPS 2023`** [[Paper]](https://arxiv.org/pdf/2302.00111.pdf) <br>
 
+- _**DreamerV3: Mastering Diverse Domains through World Models**_ <br>
+**`arXiv23.01`** [[Paper]](https://arxiv.org/pdf/2301.04104.pdf) [[Code]](https://github.com/danijar/dreamerv3) <br>
