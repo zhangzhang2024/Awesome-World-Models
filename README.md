@@ -36,6 +36,9 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 - _**UniSim: Learning Interactive Real-World Simulators**_ <br>
 **`ICLR 2024`** [[Paper]](https://arxiv.org/pdf/2310.06114.pdf) <br>
 
+- _**Video Language Planning**_ <br>
+**`ICLR 2024`** [[Paper]](https://arxiv.org/pdf/2310.10625.pdf) [[Code]](https://github.com/video-language-planning/vlp_code) <br>
+
 - _**IRASim: Learning Interactive Real-Robot Action Simulators**_ <br>
 **`arXiv24.06`** [[Paper]](https://arxiv.org/pdf/2406.14540.pdf) [[Code]](https://github.com/bytedance/IRASim) <br>
 
@@ -43,5 +46,3 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 - _**Learning Universal Policies via Text-Guided Video Generation**_ <br>
 **`NIPS 2023`** [[Paper]](https://arxiv.org/pdf/2302.00111.pdf) <br>
 
-- _**Video Language Planning**_ <br>
-**`arXiv23.10`** [[Paper]](https://arxiv.org/pdf/2310.10625.pdf) [[Code]](https://github.com/video-language-planning/vlp_code) <br>
