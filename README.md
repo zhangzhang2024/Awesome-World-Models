@@ -15,7 +15,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 **`arxiv25.04`** [[Paper]](https://arxiv.org/pdf/2504.20995v1.pdf) [[Code]](https://github.com/UMass-Embodied-AGI/TesserAct) <br>
 
 - _**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**_ <br>
-**`ICLR2025`** [[Paper]](https://arxiv.org/pdf/2404.10775.pdf) [[Code]](https://github.com/UMass-Embodied-AGI/COMBO) <br>
+**`ICLR 2025`** [[Paper]](https://arxiv.org/pdf/2404.10775.pdf) [[Code]](https://github.com/UMass-Embodied-AGI/COMBO) <br>
 
 - _**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**_ <br>
 **`arxiv25.02`** [[Paper]](https://arxiv.org/pdf/2501.01895.pdf) <br>
