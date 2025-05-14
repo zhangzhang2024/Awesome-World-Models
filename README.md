@@ -14,8 +14,14 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 - _**TesserAct: Learning 4D Embodied World Models**_ <br>
 **`arXiv25.04`** [[Paper]](https://arxiv.org/pdf/2504.20995v1.pdf) [[Code]](https://github.com/UMass-Embodied-AGI/TesserAct) <br>
 
+- _**Navigation World Models**_ <br>
+**`CVPR 2025`** [[Paper]](https://arxiv.org/pdf/2412.03572.pdf) [[Code]](https://github.com/facebookresearch/nwm/) <br>
+
 - _**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**_ <br>
 **`ICLR 2025`** [[Paper]](https://arxiv.org/pdf/2404.10775.pdf) [[Code]](https://github.com/UMass-Embodied-AGI/COMBO) <br>
+
+- _**Cosmos World Foundation Model Platform for Physical AI**_ <br>
+**`arXiv25.03`** [[Paper]](https://arxiv.org/pdf/2501.03575.pdf) <br>
 
 - _**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**_ <br>
 **`arXiv25.02`** [[Paper]](https://arxiv.org/pdf/2501.01895.pdf) <br>
@@ -27,9 +33,15 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 - _**WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making**_ <br>
 **`arXiv24.11`** [[Paper]](https://arxiv.org/pdf/2411.05619.pdf) <br>
 
+- _**UniSim: Learning Interactive Real-World Simulators**_ <br>
+**`ICLR 2024`** [[Paper]](https://arxiv.org/pdf/2310.06114.pdf) <br>
+
 - _**IRASim: Learning Interactive Real-Robot Action Simulators**_ <br>
 **`arXiv24.06`** [[Paper]](https://arxiv.org/pdf/2406.14540.pdf) [[Code]](https://github.com/bytedance/IRASim) <br>
 
 ### 2023
+- _**Learning Universal Policies via Text-Guided Video Generation**_ <br>
+**`NIPS 2023`** [[Paper]](https://arxiv.org/pdf/2302.00111.pdf) <br>
+
 - _**Video Language Planning**_ <br>
 **`arXiv23.10`** [[Paper]](https://arxiv.org/pdf/2310.10625.pdf) [[Code]](https://github.com/video-language-planning/vlp_code) <br>
